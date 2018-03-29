@@ -10,8 +10,9 @@ namespace my
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("1 world!");
             Console.WriteLine("Hello world!");
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("так так");
         }
     }
 }
